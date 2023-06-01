@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/olgahome/Documents/MLOps%20course/MLOPS_Zoom_camp/Week_2/mlruns/349264911208342971/c3f3d7275e024b4cbaac69e6b751a1c0/artifacts
+end_time: 1685623571773
+entry_point_name: ''
+experiment_id: '349264911208342971'
+lifecycle_stage: active
+run_id: c3f3d7275e024b4cbaac69e6b751a1c0
+run_name: funny-toad-417
+run_uuid: c3f3d7275e024b4cbaac69e6b751a1c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685623571761
+status: 4
+tags: []
+user_id: olgahome

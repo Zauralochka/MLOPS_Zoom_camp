@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/olgahome/Documents/MLOps%20course/MLOPS_Zoom_camp/Week_2/mlruns/349264911208342971/26aa7a1d659647fc91f03cffb62b12e7/artifacts
+end_time: 1685623709851
+entry_point_name: ''
+experiment_id: '349264911208342971'
+lifecycle_stage: active
+run_id: 26aa7a1d659647fc91f03cffb62b12e7
+run_name: charming-mole-355
+run_uuid: 26aa7a1d659647fc91f03cffb62b12e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685623704132
+status: 3
+tags: []
+user_id: olgahome
