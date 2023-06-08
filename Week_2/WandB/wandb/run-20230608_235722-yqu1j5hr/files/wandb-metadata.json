@@ -1,0 +1,49 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-06-08T13:57:22.973350",
+    "startedAt": "2023-06-08T13:57:22.179443",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "mlops-zoomcamp-wandb",
+        "--wandb_entity",
+        "rudakova_o",
+        "--data_artifact",
+        "rudakova_o/mlops-zoomcamp-wandb/NYC-Taxi:v0"
+    ],
+    "state": "running",
+    "program": "/Users/olgahome/Documents/MLOps_course/MLOPS_Zoom_camp/Week_2/WandB/sweep.py",
+    "codePath": "Week_2/WandB/sweep.py",
+    "git": {
+        "remote": "git@github.com:Zauralochka/MLOPS_Zoom_camp.git",
+        "commit": "75cee7fcd85f2b722bce736d1f9f58b6c887afb2"
+    },
+    "email": "olgakurgan@gmail.com",
+    "root": "/Users/olgahome/Documents/MLOps_course/MLOPS_Zoom_camp",
+    "host": "Olgas-MacBook-Pro.local",
+    "username": "olgahome",
+    "executable": "/Users/olgahome/opt/anaconda3/envs/wandb-env/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "total": 460.4317207336426,
+        "used": 22.190284729003906
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

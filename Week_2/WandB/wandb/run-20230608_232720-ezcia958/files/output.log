@@ -1,0 +1,18 @@
+
+[34m[1mwandb[39m[22m:   4 of 4 files downloaded.
+Traceback (most recent call last):
+  File "/Users/olgahome/Documents/MLOps_course/MLOPS_Zoom_camp/Week_2/WandB/train.py", line 66, in <module>
+    run_train()
+  File "/Users/olgahome/opt/anaconda3/envs/wandb-env/lib/python3.9/site-packages/click/core.py", line 1130, in __call__
+    return self.main(*args, **kwargs)
+  File "/Users/olgahome/opt/anaconda3/envs/wandb-env/lib/python3.9/site-packages/click/core.py", line 1055, in main
+    rv = self.invoke(ctx)
+  File "/Users/olgahome/opt/anaconda3/envs/wandb-env/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/Users/olgahome/opt/anaconda3/envs/wandb-env/lib/python3.9/site-packages/click/core.py", line 760, in invoke
+    return __callback(*args, **kwargs)
+  File "/Users/olgahome/Documents/MLOps_course/MLOPS_Zoom_camp/Week_2/WandB/train.py", line 62, in run_train
+    artifact.add_file("rf_regressor.pkl")
+  File "/Users/olgahome/opt/anaconda3/envs/wandb-env/lib/python3.9/site-packages/wandb/sdk/artifacts/local_artifact.py", line 377, in add_file
+    raise ValueError("Path is not a file: %s" % local_path)
+ValueError: Path is not a file: rf_regressor.pkl
