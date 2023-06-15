@@ -4,3 +4,9 @@
 *.parquet
 *.db
 ./output
+.ipynb_checkpoints
+models/*
+mlruns/*
+.vscode/
+./DS_Store
+*.DyS_Store
